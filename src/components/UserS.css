@@ -1,0 +1,33 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: start;
+    padding: 1%;
+    overflow: hidden;
+  }
+  table{
+    width: 100%;
+
+ 
+  }
+
+  .dasboard{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+  }
+
+  .load-more{
+    display: inline-block;
+    position: relative;
+    left: 45%;
+ margin: 10px;
+  }
+  .add-btn{
+    display: inline-block;
+    position: relative;
+    left: 40%;
+  margin: 10px;
+  }
